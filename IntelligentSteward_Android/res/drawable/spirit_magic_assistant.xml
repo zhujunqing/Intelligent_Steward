@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/spirit_magic_white" android:state_selected="false"/>
+    <item android:drawable="@drawable/spirit_magic_dark_color" android:state_selected="true"></item>
+
+</selector>
